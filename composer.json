@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php-ai/php-ml": "^0.4.1",
+        "kreait/firebase-php": "^6.3",
+        "grpc/grpc": "^1.38",
+        "google/protobuf": "^3.17",
+        "google/cloud-firestore": "^1.22",
+        "google/cloud": "^0.180.0",
+		 "guzzlehttp/guzzle": "^7.4"
+    }
+}
